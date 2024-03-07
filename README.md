@@ -11,6 +11,8 @@ the most relevant and qualified candidates.
 This program will analyse all the resumes in HDFS and print the scores for each and display the top 5 resumes.
 Based on the intake percentage, the user can modify the code to shortlist top x or x% candidates.
 
+A project developed by C B Ananya, Ayshwarya B, Gayathri Venkatesan.
+
 ## Requirements:
 Installation of -
 python (I have used version 3.11)
