@@ -51,7 +51,7 @@ To put files from local file system to HDFS:
 Open command prompt and type ```spark-shell```
 Press Enter twice.
 
-To run the python file: ```spark-submit shortlister.py```
+To run the python file: ```spark-submit resume-shortlisting.py```
 
 You will see the output with the scores of each resume and a final list containing the file names of the top 5 candidates.
 
