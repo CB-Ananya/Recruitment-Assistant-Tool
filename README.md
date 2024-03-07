@@ -1,4 +1,4 @@
-# Recruitment-Assistant-Tool
+# Recruitment-Assistant-Tool : Resume-shortlisting in a distributed file system
 
 Recruiters face a significant challenge in efficiently reviewing a large 
 number of resumes to find the best candidates for a specific job opening. 
